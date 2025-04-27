@@ -1,1 +1,0 @@
-# macular-vision-corrector
